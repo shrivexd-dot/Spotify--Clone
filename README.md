@@ -2,6 +2,11 @@
 
 A Spotify-inspired music streaming web player UI built using HTML and CSS. This project recreates the look and feel of Spotify's web player with a sidebar, music cards, navigation bar, and music player controls.
 
+## 🔴 Live Demo
+
+👉 [View Live Demo](https://spotify-clone-eosin-xi-92.vercel.app/)
+
+
 ## Features
 
 - Spotify-inspired dark UI
